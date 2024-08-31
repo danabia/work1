@@ -1,0 +1,46 @@
+h1{
+    color: black;
+   align-self: auto;
+font-size: 60px;
+}
+table{
+    padding: 90px;
+     border-bottom: 5px solid aquamarine;
+     border-collapse:collapse ;
+     align-self: auto;
+     margin: 25px 0;
+     min-width: 400px;
+}
+th,td{
+    padding: 25px;
+    border-bottom: 1px solid aquamarine;
+}
+p{
+    font-size: medium;
+    font-family: italic;
+}
+
+tr:hover { 
+    background-color: rgb(235, 237, 199);
+}
+.thehead{
+    background-color: aquamarine;
+    text-align: left;
+    font-weight: bold;
+}
+body{
+    padding: 80px;
+}
+button{
+    padding: 15px 45px;
+    border: none;
+    outline: none;
+    position: relative;
+    border-radius: 13px;
+font-size: 12px;
+cursor: pointer;
+background: #dddddd;
+}
+button:hover{
+    background-color: aquamarine;
+}
